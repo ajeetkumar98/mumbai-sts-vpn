@@ -1,0 +1,4 @@
+this file is related to establish the site to site vpn between two server in different region
+  this repo is associated with the North verginia sts vpn repository
+  you have apply this after implementing the north virginia repo in the terraform server
+  after that you have to implement this repo file with the help of terraform server
